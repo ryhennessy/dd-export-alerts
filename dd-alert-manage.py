@@ -1,4 +1,4 @@
-#h!/usr/local/bin/python3
+#h!/usr/bin/python
 
 from datadog import initialize, api
 import json
