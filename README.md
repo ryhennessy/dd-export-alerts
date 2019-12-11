@@ -22,7 +22,7 @@ optional arguments:
                         The Datadog App key
 ```   
 
-## Upadtes
+## Updates
 This is the intial version of this script.   I will happily take suggestions or PR updates.   
 
 
